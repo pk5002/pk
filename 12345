@@ -35,16 +35,17 @@ http://50.7.237.4:8080/TEN1HD/tracks-v1a1/index.m3u8
 http://50.7.237.4:8080/TEN2HD/tracks-v1a1/index.m3u8
 #EXTINF:-1,TEN3 TEN3HD
 http://50.7.237.4:8080/TEN3HD/tracks-v1a1/index.m3u8
-#EXTINF:-1,TV
+#EXTINF:-1,RAJMUSIX
 http://cc80c231.akadatel.com/iptv/9MVW5MDUB55FCU/6704/index.m3u8
-#EXTINF:-1,TV
+#EXTINF:-1,RAJMUSIX
 http://cc80c231.akadatel.com/iptv/9MVW5MDUB55FCU/6692/index.m3u8
-#EXTINF:-1,TV
+#EXTINF:-1,RAJMUSIX
 http://cc80c231.akadatel.com/iptv/9MVW5MDUB55FCU/6694/index.m3u8
-#EXTINF:-1,TV
+#EXTINF:-1,RAJMUSIX
 http://cc80c231.akadatel.com/iptv/9MVW5MDUB55FCU/6696/index.m3u8
-#EXTINF:-1,TV
-http://cc80c231.akadatel.com/iptv/9MVW5MDUB55FCU/6698/index.m3u8
-#EXTINF:-1,TV
-http://cc80c231.akadatel.com/iptv/9MVW5MDUB55FCU/6693/index.m3u8
 
+#EXTINF:-1,RAJMUSIX
+http://cc80c231.akadatel.com/iptv/9MVW5MDUB55FCU/6698/index.m3u8
+
+#EXTINF:-1,RAJMUSIX
+http://cc80c231.akadatel.com/iptv/9MVW5MDUB55FCU/6693/index.m3u8
