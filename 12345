@@ -1,0 +1,6 @@
+#EXTINF:-1,COLORS TAMIL HD
+http://50.7.237.4:8080/COLORSTAMILHD/tracks-v1a1/index.m3u8
+#EXTINF:-1,AND TV HD
+http://50.7.237.4:8080/ANDTVHD/tracks-v1a1/index.m3u8
+#EXTINF:-1,AND PICTURE HD
+http://50.7.237.4:8080/ANDPICTURESHD/tracks-v1a1/index.m3u8
