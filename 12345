@@ -2,8 +2,8 @@
 
 
 #EXTM3U
-
-
+#EXTINF:-1, GAZI TV
+http://103.78.255.178:8080/gtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/240px-ATN_Bangla.svg.png" group-title="Bangladesh", ATN Bangla Ch-1
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 
@@ -188,9 +188,6 @@ https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="Bangladesh", Maasranga TV Ch-2
 http://208.86.19.21/686.stream/index.m3u8
 
-*******অ্যাপ লিংক Iptv app link *******
-******* https://play.google.com/store/apps/details?id=com.binodonsoft.iptv_lite ********
-
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/mohona.jpg" group-title="Bangladesh", Mohona TV Ch-1
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/chunks.m3u8
 
@@ -251,8 +248,6 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J4JNrkH.png" group-title="Bangladesh", Peace TV (BNG) Ch-1
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 
-*******অ্যাপ লিংক Iptv app link *******
-******* https://play.google.com/store/apps/details?id=com.binodonsoft.iptv_lite ********
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J4JNrkH.png" group-title="Bangladesh", Peace TV (BNG) Ch-2
 http://89.38.99.153:8032/eu_bangla_adapt/tracks-v1a1/mono.m3u8
@@ -293,8 +288,6 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/in-aakaash-aa-9189.jpg" group-title="Kolkata", Akash Aath
 http://208.86.19.21:80/902.stream/index.m3u8
 
-*******অ্যাপ লিংক Iptv app link *******
-******* https://play.google.com/store/apps/details?id=com.binodonsoft.iptv_lite ********
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Kolkata", Colors Bangla Ch-1
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
@@ -350,8 +343,6 @@ http://208.86.19.21/906.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/zee-bnagla-cinemab359d78594762919.jpg" group-title="Kolkata", Zee Bangla Cinema Ch-1
 http://208.86.19.21:80/708.stream/index.m3u8
 
-*******অ্যাপ লিংক Iptv app link *******
-******* https://play.google.com/store/apps/details?id=com.binodonsoft.iptv_lite ********
 
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/zee-bnagla-cinemab359d78594762919.jpg" group-title="Kolkata", Zee Bangla Cinema Ch-3
 http://208.86.19.21/708.stream/index.m3u8
@@ -440,8 +431,7 @@ http://103.159.4.38:5868/MUSIC-10/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTEUfSAD9DRRjtjW1MzoFtgmqm-iUMNV7VGgf3ozgV5LdIVTqMy&usqp=CAU" group-title="Hindi", Music India Ch-1
 http://103.159.4.38:5868/MUSIC-3/tracks-v1a1/mono.m3u8
 
-*******অ্যাপ লিংক Iptv app link *******
-******* https://play.google.com/store/apps/details?id=com.binodonsoft.iptv_lite ********
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTEUfSAD9DRRjtjW1MzoFtgmqm-iUMNV7VGgf3ozgV5LdIVTqMy&usqp=CAU" group-title="Hindi", Music India Ch-2
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
@@ -503,8 +493,6 @@ http://103.131.212.138:8000/play/a00k/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="Hindi", UTV Action Ch-2
 http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8
 
-*******অ্যাপ লিংক Iptv app link *******
-******* https://play.google.com/store/apps/details?id=com.binodonsoft.iptv_lite ********
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AnkD43r.png" group-title="Hindi", UTV Movies HD
 http://208.86.19.21:80/723.stream/index.m3u8
@@ -614,8 +602,6 @@ https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OA19S3j.png" group-title="Sports", AD Sports Ch-3
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 
-*******অ্যাপ লিংক Iptv app link *******
-******* https://play.google.com/store/apps/details?id=com.binodonsoft.iptv_lite ********
 
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/dd-sports.png" group-title="Sports", DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
@@ -679,9 +665,6 @@ http://208.86.19.21/732.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports Ch-1
 
-*******অ্যাপ লিংক Iptv app link *******
-******* https://play.google.com/store/apps/details?id=com.binodonsoft.iptv_lite ********
-http://103.159.4.38:5868/BD-BANGLA-11/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports Ch-2
 http://103.159.4.38:5868/BD-BANGLA-8/index.m3u8
@@ -761,8 +744,6 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="BANGLA", Deepto TV
 http://str24.l9574.com/609.stream/index.m3u8
 
-*******অ্যাপ লিংক Iptv app link *******
-******* https://play.google.com/store/apps/details?id=com.binodonsoft.iptv_lite ********
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="BANGLA", Maasranga Tv
 http://str24.l9574.com/686.stream/index.m3u8
@@ -1027,8 +1008,6 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 https://www.livedoomovie.com/02_PremierHD1_480p/chunklist.m3u8
 
 
-*******অ্যাপ লিংক Iptv app link *******
-******* https://play.google.com/store/apps/details?id=com.binodonsoft.iptv_lite ********
 
 #EXTINF:-1 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier2.png" group-title="SPORTS", TRUE SPORT HD2
 https://master.server-cdn-streaming.com/api/live-player/46/live.m3u8
