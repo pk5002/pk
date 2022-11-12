@@ -2,6 +2,8 @@
 
 
 #EXTM3U
+#EXTINF:-1, ptv
+http://cdn.ihub.live:8082/j-PTV/tracks-v1a1/2022/11/12/12/49/01-06000.ts?token=af41e96c968be7cc7955e3905c83caa894ab6e43-c3558c363fd12fc2a142b2b2f92ca780-1668267702-1668256902
 #EXTINF:-1, GAZI TV
 http://103.78.255.178:8080/gtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/240px-ATN_Bangla.svg.png" group-title="Bangladesh", ATN Bangla Ch-1
