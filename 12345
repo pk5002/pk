@@ -1,31 +1,77 @@
-#EXTINF:0,CZ: ONEPLAY1 T3
-#EXTVLCOPT:network-caching=1000
-http://185.112.249.46:9981/stream/channelid/177253733?profile=pass
-#EXTINF:0,CZ: ONEPLAY2 T2
-#EXTVLCOPT:network-caching=1000
-http://185.112.249.46:9981/stream/channelid/1716506983?profile=pass
-#EXTINF:0,CZ: ONEPLAY3 T3
-#EXTVLCOPT:network-caching=1000
-http://185.112.249.46:9981/stream/channelid/1597775099?profile=pass
-#EXTINF:0,CZ: EUROSPORT11 kolo
-#EXTVLCOPT:network-caching=1000
-http://185.112.249.46:9981/stream/channelid/718615486?profile=pass
-#EXTINF:0,CZ: EUROSPORT22
-#EXTVLCOPT:network-caching=1000
-http://185.112.249.46:9981/stream/channelid/737993602?profile=pass
-#EXTINF:0,CZ: PREMIER SPORT1 T3
-#EXTVLCOPT:network-caching=1000
-http://185.112.249.46:9981/stream/channelid/2020429400?profile=pass
-#EXTINF:0,CZ: PREMIER SPORT2 T2 kolo
-#EXTVLCOPT:network-caching=1000
-http://185.112.249.46:9981/stream/channelid/877537711?profile=pass
-#EXTINF:0,NOVA SPORT6 kolo
-#EXTVLCOPT:network-caching=1000
-http://185.112.249.46:9981/stream/channelid/1940136002?profile=pass
-#EXTINF:0,CZ: FI V Sport 1 Suomi
-#EXTVLCOPT:network-caching=1000
-http://185.112.249.46:9981/stream/channelid/1363722412?profile=pass
-#EXTINF:0,CZ: NO V Sport Vinter
-#EXTVLCOPT:network-caching=1000
-http://185.112.249.46:9981/stream/channelid/1061151849?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1eXO9BU.png" group-title="Channels | Adults", [XX] ADULT 1
+http://play.dnsrot.vip:80/C629y654/8d2fpko1t9r/52276
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1eXO9BU.png" group-title="Channels | Adults", [XX] ADULT 10
+http://play.dnsrot.vip:80/C629y654/8d2fpko1t9r/52285
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1eXO9BU.png" group-title="Channels | Adults", [XX] ADULT 100
+http://play.dnsrot.vip:80/C629y654/8d2fpko1t9r/952431
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1eXO9BU.png" group-title="Channels | Adults", [XX] ADULT 106
+http://play.dnsrot.vip:80/C629y654/8d2fpko1t9r/959971
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1eXO9BU.png" group-title="Channels | Adults", [XX] ADULT 11
+http://play.dnsrot.vip:80/C629y654/8d2fpko1t9r/57091
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1eXO9BU.png" group-title="Channels | Adults", [XX] ADULT 110
+http://play.dnsrot.vip:80/C629y654/8d2fpko1t9r/959976
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1eXO9BU.png" group-title="Channels | Adults", [XX] ADULT 112
+http://play.dnsrot.vip:80/C629y654/8d2fpko1t9r/959978
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1eXO9BU.png" group-title="Channels | Adults", [XX] ADULT 135
+http://play.dnsrot.vip:80/C629y654/8d2fpko1t9r/960002
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1eXO9BU.png" group-title="Channels | Adults", [XX] ADULT 136
+http://play.dnsrot.vip:80/C629y654/8d2fpko1t9r/960003
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1eXO9BU.png" group-title="Channels | Adults", [XX] ADULT 162
+http://play.dnsrot.vip:80/C629y654/8d2fpko1t9r/960029
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1eXO9BU.png" group-title="Channels | Adults", [XX] ADULT 164
+http://play.dnsrot.vip:80/C629y654/8d2fpko1t9r/960031
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1eXO9BU.png" group-title="Channels | Adults", [XX] ADULT 165
+http://play.dnsrot.vip:80/C629y654/8d2fpko1t9r/960032
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1eXO9BU.png" group-title="Channels | Adults", [XX] ADULT 43
+http://play.dnsrot.vip:80/C629y654/8d2fpko1t9r/932524
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1eXO9BU.png" group-title="Channels | Adults", [XX] ADULT 44
+http://play.dnsrot.vip:80/C629y654/8d2fpko1t9r/932525
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1eXO9BU.png" group-title="Channels | Adults", [XX] ADULT 45
+http://play.dnsrot.vip:80/C629y654/8d2fpko1t9r/932526
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1eXO9BU.png" group-title="Channels | Adults", [XX] ADULT 84
+http://play.dnsrot.vip:80/C629y654/8d2fpko1t9r/952415
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1eXO9BU.png" group-title="Channels | Adults", [XX] ADULT 85
+http://play.dnsrot.vip:80/C629y654/8d2fpko1t9r/952416
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1eXO9BU.png" group-title="Channels | Adults", [XX] ADULT 86
+http://play.dnsrot.vip:80/C629y654/8d2fpko1t9r/952417
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1eXO9BU.png" group-title="Channels | Adults", [XX] RUSNOCH
+http://play.dnsrot.vip:80/C629y654/8d2fpko1t9r/63703
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1eXO9BU.png" group-title="Channels | Adults", [XX] SCT
+http://play.dnsrot.vip:80/C629y654/8d2fpko1t9r/63702
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1eXO9BU.png" group-title="Channels | Adults [4K]", [XX] ADULT 16 [4K]
+http://play.dnsrot.vip:80/C629y654/8d2fpko1t9r/63084
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1eXO9BU.png" group-title="Channels | Adults [4K]", [XX] ADULT 17 [4K]
+http://play.dnsrot.vip:80/C629y654/8d2fpko1t9r/69330
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1eXO9BU.png" group-title="Channels | Adults [4K]", [XX] ADULT 18 [4K]
+http://play.dnsrot.vip:80/C629y654/8d2fpko1t9r/69331
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1eXO9BU.png" group-title="Channels | Adults [4K]", [XX] ADULT 80 [4K]
+http://play.dnsrot.vip:80/C629y654/8d2fpko1t9r/960406
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1eXO9BU.png" group-title="Channels | Adults [4K]", [XX] ADULT 81 [4K]
+http://play.dnsrot.vip:80/C629y654/8d2fpko1t9r/960407
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1eXO9BU.png" group-title="Channels | Adults [4K]", [XX] ADULT 84 [4K]
+http://play.dnsrot.vip:80/C629y654/8d2fpko1t9r/960410
